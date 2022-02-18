@@ -2,13 +2,6 @@
 
  
 
-:computer: I'm starting in this environment, but I consider myself as a fullstack developer (trying to be)!
-
-:house_with_garden: I’m from São Paulo, but I love being everywhere.
-
-:books: I’m currently learning Python, more about Javascript .
-
-:outbox_tray: I´m working right now, but I wanna a new job that I can study more and practice more what I study :)
 
  
 
